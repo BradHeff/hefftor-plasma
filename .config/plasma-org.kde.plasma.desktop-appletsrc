@@ -28,6 +28,7 @@ DialogWidth=800
 
 [Containments][2][Applets][34][Configuration][General]
 favoritesPortedToKAstats=true
+icon=/usr/share/pixmaps/xfce4-panel-menu.png
 
 [Containments][2][Applets][34][Shortcuts]
 global=Alt+F1
