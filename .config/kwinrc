@@ -22,8 +22,17 @@ kwin4_effect_fadedesktopEnabled=true
 slideEnabled=false
 wobblywindowsEnabled=true
 
+[TabBox]
+DesktopLayout=org.kde.breeze.desktop
+DesktopListLayout=org.kde.breeze.desktop
+LayoutName=org.kde.breeze.desktop
+
 [Windows]
 ActiveMouseScreen=true
 MaximizeButtonLeftClickCommand=Maximize
 RollOverDesktops=true
 TitlebarDoubleClickCommand=Maximize
+
+[org.kde.kdecoration2]
+library=org.kde.breeze
+theme=
