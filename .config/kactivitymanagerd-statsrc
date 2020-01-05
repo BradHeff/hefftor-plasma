@@ -23,7 +23,7 @@ ordering=preferred://browser,applications:systemsettings.desktop,applications:or
 ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:org.kde.discover.desktop
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-34-1fe86127-d67b-4797-816f-87c2194fc798]
-ordering=applications:firefox.desktop,applications:org.kde.konsole.desktop,applications:discord.desktop,applications:telegramdesktop.desktop,applications:org.kde.ktorrent.desktop,applications:systemsettings.desktop
+ordering=applications:firefox.desktop,applications:org.kde.dolphin.desktop,applications:discord.desktop,applications:telegramdesktop.desktop,applications:org.kde.ktorrent.desktop,applications:systemsettings.desktop,applications:gimp.desktop
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-34-global]
-ordering=applications:firefox.desktop,applications:org.kde.konsole.desktop,applications:discord.desktop,applications:telegramdesktop.desktop,applications:org.kde.ktorrent.desktop,applications:systemsettings.desktop
+ordering=applications:firefox.desktop,applications:org.kde.dolphin.desktop,applications:discord.desktop,applications:telegramdesktop.desktop,applications:org.kde.ktorrent.desktop,applications:systemsettings.desktop,applications:gimp.desktop

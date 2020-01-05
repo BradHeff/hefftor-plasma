@@ -125,7 +125,7 @@ Theme=Tela-blue-dark
 
 [KDE]
 ColorScheme=Breeze
-LookAndFeelPackage=org.kde.breezedark.desktop
+LookAndFeelPackage=Flat-Remix-Blue
 ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=true
 SingleClick=false

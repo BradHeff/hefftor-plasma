@@ -2,7 +2,7 @@
 update_info=kscreenlocker.upd:0.1-autolock
 
 [Greeter]
-Theme=org.kde.breezedark.desktop
+Theme=Flat-Remix-Blue
 WallpaperPlugin=org.kde.slideshow
 
 [Greeter][Wallpaper][org.kde.slideshow][General]
