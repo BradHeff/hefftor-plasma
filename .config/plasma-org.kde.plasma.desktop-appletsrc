@@ -110,7 +110,7 @@ DialogHeight=600
 DialogWidth=800
 
 [Containments][26][Configuration]
-PreloadWeight=2
+PreloadWeight=0
 
 [Containments][26][General]
 ToolBoxButtonState=bottomleft
