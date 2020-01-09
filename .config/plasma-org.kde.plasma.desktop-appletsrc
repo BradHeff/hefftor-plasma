@@ -20,7 +20,7 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][2][Applets][34][Configuration]
-PreloadWeight=92
+PreloadWeight=94
 
 [Containments][2][Applets][34][Configuration][ConfigDialog]
 DialogHeight=600
