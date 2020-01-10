@@ -1,5 +1,5 @@
 [Desktop Entry]
-DefaultProfile=arcolinux.profile
+DefaultProfile=hefftorlinux.profile
 
 [Favorite Profiles]
 Favorites=
@@ -8,8 +8,8 @@ Favorites=
 ShowMenuBarByDefault=false
 
 [MainWindow]
-Height 1080=574
+Height 1080=468
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAAAzUAAAI+AAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled
-Width 1920=821
+Width 1920=653
