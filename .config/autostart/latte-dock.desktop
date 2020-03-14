@@ -1,0 +1,22 @@
+[Desktop Entry]
+Categories=Utility;
+Comment[en_AU]=Stupidly simple.
+Comment=Stupidly simple.
+Exec=latte-dock
+GenericName[en_AU]=Dock
+GenericName=Dock
+Icon=latte-dock
+MimeType=
+Name[en_AU]=latte-dock
+Name=latte-dock
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Name[en_AU.utf8]=latte-dock
