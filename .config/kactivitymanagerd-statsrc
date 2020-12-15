@@ -53,7 +53,7 @@ ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolp
 ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover.desktop
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-41-1fe86127-d67b-4797-816f-87c2194fc798]
-ordering=applications:systemsettings.desktop,applications:org.kde.discover.desktop,applications:sublime_text_3.desktop,applications:brave-browser.desktop,applications:org.strawberrymusicplayer.strawberry.desktop,applications:vlc.desktop,applications:org.kde.konsole.desktop
+ordering=applications:brave-browser.desktop,applications:org.kde.dolphin.desktop,applications:sublime_text_3.desktop,applications:org.strawberrymusicplayer.strawberry.desktop,applications:vlc.desktop,applications:org.kde.konsole.desktop,applications:systemsettings.desktop,applications:org.kde.discover.desktop
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-41-global]
-ordering=applications:systemsettings.desktop,applications:org.kde.discover.desktop,applications:sublime_text_3.desktop,applications:brave-browser.desktop,applications:org.strawberrymusicplayer.strawberry.desktop,applications:vlc.desktop,applications:org.kde.konsole.desktop
+ordering=applications:brave-browser.desktop,applications:org.kde.dolphin.desktop,applications:sublime_text_3.desktop,applications:org.strawberrymusicplayer.strawberry.desktop,applications:vlc.desktop,applications:org.kde.konsole.desktop,applications:systemsettings.desktop,applications:org.kde.discover.desktop

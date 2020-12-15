@@ -20,7 +20,7 @@ immutability=1
 plugin=org.kde.plasma.panelspacer
 
 [Containments][2][Applets][38][Configuration]
-PreloadWeight=34
+PreloadWeight=26
 
 [Containments][2][Applets][38][Configuration][General]
 length=1244
@@ -37,7 +37,7 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][2][Applets][41][Configuration]
-PreloadWeight=89
+PreloadWeight=92
 
 [Containments][2][Applets][41][Configuration][ConfigDialog]
 DialogHeight=600
@@ -218,7 +218,7 @@ immutability=1
 plugin=org.kde.plasma.nightcolorcontrol
 
 [Containments][7][Applets][35][Configuration]
-PreloadWeight=18
+PreloadWeight=10
 
 [Containments][7][Configuration]
 PreloadWeight=0
