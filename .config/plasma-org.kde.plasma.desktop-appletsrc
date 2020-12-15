@@ -15,20 +15,15 @@ location=3
 plugin=org.kde.panel
 wallpaperplugin=org.kde.image
 
-[Containments][2][Applets][36]
+[Containments][2][Applets][38]
 immutability=1
-plugin=org.kde.plasma.kickerdash
+plugin=org.kde.plasma.panelspacer
 
-[Containments][2][Applets][36][Configuration][ConfigDialog]
-DialogHeight=600
-DialogWidth=800
+[Containments][2][Applets][38][Configuration]
+PreloadWeight=34
 
-[Containments][2][Applets][36][Configuration][General]
-favoritesPortedToKAstats=true
-icon=/usr/share/pixmaps/xfce4-panel-menu-grey.svg
-
-[Containments][2][Applets][36][Shortcuts]
-global=Alt+F1
+[Containments][2][Applets][38][Configuration][General]
+length=1244
 
 [Containments][2][Applets][4]
 immutability=1
@@ -37,12 +32,20 @@ plugin=org.kde.plasma.pager
 [Containments][2][Applets][4][Configuration]
 PreloadWeight=0
 
-[Containments][2][Applets][5]
+[Containments][2][Applets][41]
 immutability=1
-plugin=org.kde.plasma.taskmanager
+plugin=org.kde.plasma.kickoff
 
-[Containments][2][Applets][5][Configuration]
-PreloadWeight=0
+[Containments][2][Applets][41][Configuration]
+PreloadWeight=89
+
+[Containments][2][Applets][41][Configuration][ConfigDialog]
+DialogHeight=600
+DialogWidth=800
+
+[Containments][2][Applets][41][Configuration][General]
+favoritesPortedToKAstats=true
+icon=/usr/share/pixmaps/xfce4-panel-menu-grey.svg
 
 [Containments][2][Applets][6]
 immutability=1
@@ -67,14 +70,14 @@ plugin=org.kde.plasma.showdesktop
 PreloadWeight=0
 
 [Containments][2][ConfigDialog]
-DialogHeight=86
+DialogHeight=76
 DialogWidth=1920
 
 [Containments][2][Configuration]
 PreloadWeight=0
 
 [Containments][2][General]
-AppletOrder=36;4;5;6;8;9
+AppletOrder=41;4;38;6;8;9
 
 [Containments][22]
 ItemGeometriesHorizontal=
@@ -110,9 +113,9 @@ DialogWidth=800
 PreloadWeight=0
 
 [Containments][26][General]
-ToolBoxButtonState=bottomleft
-ToolBoxButtonX=12
-ToolBoxButtonY=989
+ToolBoxButtonState=topcenter
+ToolBoxButtonX=644
+ToolBoxButtonY=30
 
 [Containments][26][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/backgrounds/hefftorlinux/journey_in_middle_earth.png
@@ -213,6 +216,9 @@ PreloadWeight=0
 [Containments][7][Applets][35]
 immutability=1
 plugin=org.kde.plasma.nightcolorcontrol
+
+[Containments][7][Applets][35][Configuration]
+PreloadWeight=18
 
 [Containments][7][Configuration]
 PreloadWeight=0
