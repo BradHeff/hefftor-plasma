@@ -8,4 +8,5 @@ RepeatDelay=600
 RepeatRate=25
 
 [Mouse]
-cursorTheme=Bibata_Ice
+cursorSize=28
+cursorTheme=Bibata-Modern-Ice
