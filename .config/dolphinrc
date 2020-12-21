@@ -5,7 +5,19 @@ ViewPropsTimestamp=2020,5,15,20,51,16
 [IconsMode]
 PreviewSize=112
 
+[KPropertiesDialog]
+DP-1 DP-2 Height 1080=479
+DP-1 DP-2 Width 1920=435
+
 [MainWindow]
+DP-1 DP-2 Height 1080=659
+DP-1 DP-2 Width 1920=1101
+DP-1 DP-2 XPosition=431
+DP-1 DP-2 YPosition=245
+DP-4 DP-1 Height 1080=659
+DP-4 DP-1 Width 1920=1101
+DP-4 DP-1 XPosition=815
+DP-4 DP-1 YPosition=59
 Height 1080=659
 MenuBar=Disabled
 RestorePositionForNextInstance=false
@@ -13,6 +25,10 @@ State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAACa/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAG
 ToolBarsMovable=Disabled
 VGA-1 Height 1080=659
 VGA-1 Width 1920=1101
-VGA-1 XPosition=0
-VGA-1 YPosition=59
+VGA-1 XPosition=819
+VGA-1 YPosition=299
 Width 1920=1101
+
+[Open-with settings]
+CompletionMode=1
+History=

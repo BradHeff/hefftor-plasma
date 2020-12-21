@@ -1,5 +1,8 @@
 [Theme]
-name=Arc-Dark
+name=Layan
+
+[Theme-plasmathemeexplorer]
+name=Layan
 
 [Wallpapers]
 usersWallpapers=/usr/share/backgrounds/hefftorlinux/journey_in_middle_earth.png,/usr/share/backgrounds/hefftorlinux/landscape7.png,/usr/share/backgrounds/hefftorlinux/mikael-gustafsson-forest.jpg,/usr/share/backgrounds/hefftorlinux/moon sunset landscape.png,/usr/share/backgrounds/hefftorlinux/sundown_landscape.png,/usr/share/backgrounds/hefftorlinux/river_rocks_planet.jpg

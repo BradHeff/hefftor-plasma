@@ -8,5 +8,4 @@ RepeatDelay=600
 RepeatRate=25
 
 [Mouse]
-cursorSize=28
-cursorTheme=Bibata-Modern-Ice
+cursorTheme=Layan-border-cursors
