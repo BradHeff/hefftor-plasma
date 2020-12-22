@@ -8,6 +8,8 @@ PreviewSize=112
 [KPropertiesDialog]
 DP-1 DP-2 Height 1080=479
 DP-1 DP-2 Width 1920=435
+DP-4 DP-1 Height 1080=479
+DP-4 DP-1 Width 1920=431
 
 [MainWindow]
 DP-1 DP-2 Height 1080=659
@@ -16,8 +18,8 @@ DP-1 DP-2 XPosition=431
 DP-1 DP-2 YPosition=245
 DP-4 DP-1 Height 1080=653
 DP-4 DP-1 Width 1920=1093
-DP-4 DP-1 XPosition=823
-DP-4 DP-1 YPosition=299
+DP-4 DP-1 XPosition=0
+DP-4 DP-1 YPosition=59
 Height 1080=659
 MenuBar=Disabled
 RestorePositionForNextInstance=false

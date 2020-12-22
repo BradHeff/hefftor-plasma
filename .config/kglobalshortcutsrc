@@ -7,7 +7,7 @@ switch-to-activity-799fea17-cff7-46d0-9aac-8d71c6bf41fc=none,none,Switch to acti
 [KDE Keyboard Layout Switcher]
 Switch keyboard layout to Belgian=none,none,Switch keyboard layout to Belgian
 Switch keyboard layout to English (Australian)=none,none,Switch keyboard layout to English (Australian)
-Switch to Next Keyboard Layout=Ctrl+Alt+K,none,Switch to Next Keyboard Layout
+Switch to Next Keyboard Layout=Ctrl+Alt+K,Ctrl+Alt+K,Switch to Next Keyboard Layout
 _k_friendly_name=Keyboard Layout Switcher
 
 [kaccess]

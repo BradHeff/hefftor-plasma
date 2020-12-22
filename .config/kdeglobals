@@ -108,8 +108,8 @@ ForegroundPositive=0,110,40
 ForegroundVisited=224,64,251
 
 [DirSelect Dialog]
-DirSelectDialog Size=858,602
-History Items[$e]=file:$HOME/HefftorLinux-Out,file:$HOME/HefftorLinux-Out,file:$HOME/Downloads/Torrents,file:$HOME/Downloads/Torrents,file:$HOME/Downloads/Torrents
+DirSelectDialog Size=858,586
+History Items[$e]=file:$HOME/Videos,file:$HOME/Repos/GITS/Calamares/calamares/build,file:$HOME/Repos/GITS/Calamares/calamares/src,file:$HOME/Repos/GITS/Calamares/calamares,file:$HOME/HefftorLinux-Out,file:$HOME/HefftorLinux-Out,file:$HOME/Downloads/Torrents,file:$HOME/Downloads/Torrents,file:$HOME/Downloads/Torrents
 
 [General]
 BrowserApplication=google-chrome.desktop
@@ -131,7 +131,7 @@ Theme=Tela
 
 [KDE]
 ColorScheme=Breeze
-LookAndFeelPackage=Layan
+LookAndFeelPackage=com.github.vinceliuice.Layan
 ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=true
 SingleClick=false
@@ -155,7 +155,7 @@ Sort by=Name
 Sort directories first=true
 Sort reversed=false
 Speedbar Width=167
-View Style=DetailTree
+View Style=Simple
 
 [Toolbar style]
 ToolButtonStyle=TextBesideIcon

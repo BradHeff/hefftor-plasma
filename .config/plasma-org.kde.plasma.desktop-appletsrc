@@ -52,7 +52,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][6][Configuration]
-PreloadWeight=92
+PreloadWeight=100
 SystrayContainmentId=7
 
 [Containments][2][Applets][8]
@@ -128,7 +128,7 @@ ToolBoxButtonY=30
 [Containments][26][Wallpaper][org.kde.image][General]
 Blur=true
 FillMode=0
-Image=file:///usr/share/backgrounds/hefftorlinux/river_rocks_planet.jpg
+Image=file:///usr/share/backgrounds/hefftorlinux/journey_in_middle_earth.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][42]
@@ -145,7 +145,7 @@ DialogHeight=600
 DialogWidth=800
 
 [Containments][42][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 
 [Containments][42][Wallpaper][org.kde.image][General]
 FillMode=0
@@ -160,6 +160,9 @@ lastScreen=3
 location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
+
+[Containments][43][Configuration]
+PreloadWeight=26
 
 [Containments][43][Wallpaper][org.kde.image][General]
 Image=file:///home/pheonix/.local/share/wallpapers/Layan/contents/images/2560x1440.png
@@ -177,8 +180,11 @@ wallpaperplugin=org.kde.image
 DialogHeight=600
 DialogWidth=800
 
+[Containments][44][Configuration]
+PreloadWeight=26
+
 [Containments][44][Wallpaper][org.kde.image][General]
-Image=/usr/share/backgrounds/hefftorlinux/river_rocks_planet.jpg
+Image=file:///usr/share/backgrounds/hefftorlinux/journey_in_middle_earth.png
 SlidePaths=/home/pheonix/.local/share/wallpapers,/usr/share/wallpapers
 
 [Containments][7]
@@ -195,7 +201,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][7][Applets][10][Configuration]
-PreloadWeight=23
+PreloadWeight=0
 
 [Containments][7][Applets][10][Configuration][ConfigDialog]
 DialogHeight=600
@@ -213,7 +219,7 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][7][Applets][12][Configuration]
-PreloadWeight=0
+PreloadWeight=30
 
 [Containments][7][Applets][13]
 immutability=1
@@ -234,7 +240,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][7][Applets][15][Configuration]
-PreloadWeight=22
+PreloadWeight=10
 
 [Containments][7][Applets][16]
 immutability=1
@@ -262,7 +268,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][7][Applets][19][Configuration]
-PreloadWeight=32
+PreloadWeight=8
 
 [Containments][7][Applets][20]
 immutability=1
