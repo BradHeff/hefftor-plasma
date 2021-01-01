@@ -45,7 +45,7 @@ DialogWidth=800
 
 [Containments][2][Applets][41][Configuration][General]
 favoritesPortedToKAstats=true
-icon=/usr/share/pixmaps/hefftorlinux.png
+icon=/usr/share/pixmaps/hefftorlinux-white.png
 
 [Containments][2][Applets][6]
 immutability=1
@@ -101,7 +101,7 @@ wallpaperplugin=org.kde.image
 PreloadWeight=0
 
 [Containments][22][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/backgrounds/hefftorlinux/journey_in_middle_earth.png
+Image=file:///usr/share/backgrounds/hefftorlinux_4k/stary-night.jpg
 
 [Containments][26]
 ItemGeometriesHorizontal=
@@ -128,7 +128,7 @@ ToolBoxButtonY=30
 [Containments][26][Wallpaper][org.kde.image][General]
 Blur=true
 FillMode=0
-Image=file:///usr/share/backgrounds/hefftorlinux/journey_in_middle_earth.png
+Image=file:///usr/share/backgrounds/hefftorlinux_4k/stary-night.jpg
 SlidePaths=/usr/share/wallpapers
 
 [Containments][42]
@@ -149,7 +149,7 @@ PreloadWeight=0
 
 [Containments][42][Wallpaper][org.kde.image][General]
 FillMode=0
-Image=file:///usr/share/backgrounds/hefftorlinux/journey_in_middle_earth.png
+Image=file:///usr/share/backgrounds/hefftorlinux_4k/stary-night.jpg
 SlidePaths=/usr/share/wallpapers
 
 [Containments][43]
@@ -165,7 +165,7 @@ wallpaperplugin=org.kde.image
 PreloadWeight=26
 
 [Containments][43][Wallpaper][org.kde.image][General]
-Image=file:///home/pheonix/.local/share/wallpapers/Layan/contents/images/2560x1440.png
+Image=file:///usr/share/backgrounds/hefftorlinux_4k/stary-night.jpg
 
 [Containments][44]
 activityId=1fe86127-d67b-4797-816f-87c2194fc798
@@ -184,8 +184,8 @@ DialogWidth=800
 PreloadWeight=26
 
 [Containments][44][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/backgrounds/hefftorlinux/journey_in_middle_earth.png
-SlidePaths=/home/pheonix/.local/share/wallpapers,/usr/share/wallpapers
+Image=file:///usr/share/backgrounds/hefftorlinux_4k/stary-night.jpg
+SlidePaths=/usr/share/wallpapers
 
 [Containments][7]
 activityId=
