@@ -113,7 +113,7 @@ History Items[$e]=file:$HOME/Videos,file:$HOME/Repos/GITS/Calamares/calamares/bu
 
 [General]
 BrowserApplication=google-chrome.desktop
-ColorScheme=Layan
+ColorScheme=VimixDarkDoder
 Name=Layan
 XftAntialias=true
 XftHintStyle=hintfull
@@ -136,7 +136,7 @@ ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=true
 SingleClick=false
 contrast=0
-widgetStyle=Breeze
+widgetStyle=kvantum-dark
 
 [KFileDialog Settings]
 Allow Expansion=false

@@ -40,6 +40,12 @@ ordering=preferred://browser,applications:systemsettings.desktop,applications:or
 [Favorites-org.kde.plasma.kickoff.favorites.instance-28-global]
 ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:org.kde.discover.desktop
 
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-1fe86127-d67b-4797-816f-87c2194fc798]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover.desktop
+
 [Favorites-org.kde.plasma.kickoff.favorites.instance-34-1fe86127-d67b-4797-816f-87c2194fc798]
 ordering=applications:brave-browser.desktop,applications:org.kde.dolphin.desktop,applications:vlc.desktop,applications:sublime_text_3.desktop,applications:arcolinux-tweak-tool.desktop,applications:systemsettings.desktop
 
@@ -53,7 +59,13 @@ ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolp
 ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover.desktop
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-41-1fe86127-d67b-4797-816f-87c2194fc798]
-ordering=applications:code-oss.desktop,applications:gimp.desktop,applications:google-chrome.desktop,applications:telegramdesktop.desktop,applications:discord.desktop,applications:libreoffice-writer.desktop,applications:virtualbox.desktop,applications:Zoom.desktop,applications:org.qbittorrent.qBittorrent.desktop,applications:filezilla.desktop,applications:thunderbird.desktop,applications:org.kde.spectacle.desktop,applications:org.inkscape.Inkscape.desktop,applications:com.obsproject.Studio.desktop
+ordering=applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:org.kde.discover.desktop
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-41-global]
-ordering=applications:code-oss.desktop,applications:gimp.desktop,applications:google-chrome.desktop,applications:telegramdesktop.desktop,applications:discord.desktop,applications:libreoffice-writer.desktop,applications:virtualbox.desktop,applications:Zoom.desktop,applications:org.qbittorrent.qBittorrent.desktop,applications:filezilla.desktop,applications:thunderbird.desktop,applications:org.kde.spectacle.desktop,applications:org.inkscape.Inkscape.desktop,applications:com.obsproject.Studio.desktop
+ordering=applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:org.kde.discover.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-48-1fe86127-d67b-4797-816f-87c2194fc798]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-48-global]
+ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover.desktop
