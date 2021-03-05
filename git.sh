@@ -1,10 +1,21 @@
 #!/bin/bash
+#set -e
+##################################################################################################################
+# Author 	: 	Erik Dubois
+# Website 	: 	https://www.erikdubois.be
+# Website	:	https://www.arcolinux.info
+# Website	:	https://www.arcolinux.com
+# Website	:	https://www.arcolinuxd.com
+# Website	:	https://www.arcolinuxforum.com
+##################################################################################################################
+#
+#   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
+#
+##################################################################################################################
 
 # checking if I have the latest files from github
 echo "Checking for newer files online first"
 git pull
-
-#wget https://raw.githubusercontent.com/arcolinux/arcolinux-root/master/etc/skel/.bashrc-latest -O etc/skel/.bashrc-latest
 
 # Below command will backup everything inside the project folder
 git add --all .
