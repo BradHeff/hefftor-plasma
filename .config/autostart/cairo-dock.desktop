@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=System;
+Comment[en_US]=Light and eye-candy filled dock and desklets for your desktop.
+Comment=A light and eye-candy dock and desklets for your desktop.
+Exec=cairo-dock
+GenericName=Multi-purpose Dock and Desklets
+Icon=cairo-dock
+Name=Cairo-Dock
+Terminal=false
+Type=Application
